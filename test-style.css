@@ -1,0 +1,63 @@
+footer{
+    background-color:orange !important;
+}
+body{
+    background-color: rgb(250, 224, 177);
+}
+header{
+	background-color: rgb(247, 247, 247); 
+    border: 3px solid orange;
+}
+.title{
+    font-size: 50px;
+    font-weight: 620;
+}
+.input-f{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 0px 5px 15px;
+}
+.form-user{
+    width: 90vw;
+    border: 3px solid orange;
+    padding: 15px;
+    border-radius: 7px;
+
+}
+.btn-p{
+    width: 300px;
+    
+}
+.btn-p:hover{
+    transform: scale(1.1);
+}
+.main-body{
+    width: 95vw;
+    border-radius: 15px;
+    border: 3px solid orange;
+    margin-top: 20px;
+    padding: 30px 30px 10px 30px;
+}
+.question-body{
+    background-color: rgb(255, 203, 106);
+    font-size: 20px;
+    border-radius: 10px;
+}
+.inner-option{
+    font-size: 25px;
+}
+input[type="radio"]{
+    margin: 5px;
+    transform: scale(2);
+    
+}
+.btn-result{
+    font-size: 30px; 
+    border: 3px solid orange;
+    width: 300px;
+    background-color: rgb(255, 203, 106);
+}
+.btn-result:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,73 @@
+header{
+	background-color: rgb(247, 247, 247); 
+    border: 3px solid orange;
+	
+}
+body{
+    background-color: rgb(250, 224, 177);
+}
+footer{
+    background-color:orange !important;
+}
+.side-section-header{
+	background-color: orange;
+}
+.side-section{
+	background-color: #cee2f9;
+}
+.right-btn{
+    
+	font-size: 4.3em; 
+	color: black;
+}
+.right-btn:hover{
+    border: 2px solid black !important;
+}
+.sidebar-btn{
+	width: 100%;
+	background-color: orange;
+	border-radius: 15px;
+	font-weight: 600;
+    height: 80px;
+}
+.sidebar-btn:hover{
+	background-color: #0e2cd8;
+	color: white;
+}
+.developer{
+	color: #660000;
+	margin-top: 10px;
+	font-family: Arial;
+}
+.card-h:hover{
+	width: 42vh !important;
+	margin-top: 6px !important;
+	margin-bottom: 10px !important; 
+}
+.header-text{
+	
+	font-size: 40px;
+}
+.back-btn{
+    border: 1px solid black;
+}
+.back-btn:hover{
+	border: 3px solid red;
+	box-shadow: 4px 5px gray;
+}
+.option{
+    background-color:orange;
+    border-radius: 20px;
+}
+.option:hover{
+    transform: scale(1.2);
+    box-shadow: 2px 2px red;
+}
+.card-text{
+    color: black;
+    font-size: 15px;
+    text-decoration: none !important;
+}
+.img-f{
+    border-radius: 20px;
+}
